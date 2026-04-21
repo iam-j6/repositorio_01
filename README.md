@@ -1,8 +1,5 @@
 # repositorio_01
-practica social oplesk, git, github, AWS, Flask 
-
-# repositorio_test01
-practica grupal social oplesk:
+practica social oplesk, git, github, AWS, Flask: https://github.com/iam-j6/repositorio_01.git
 
 tareas:
   1 crear repositorio 
